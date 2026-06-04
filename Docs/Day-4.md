@@ -1,15 +1,5 @@
 Kibana Installation
 
-
-
-
-
-
-
-
-
-
-
 <img width="999" height="248" alt="11" src="https://github.com/user-attachments/assets/7d2ed84e-ce23-413f-8b9e-2a745a94c172" />
 <img width="677" height="413" alt="12" src="https://github.com/user-attachments/assets/61048787-5e45-401f-987a-a2a924c7c419" />
 <img width="1215" height="697" alt="13" src="https://github.com/user-attachments/assets/9134d271-fecc-493b-a3e7-05eafab63a31" />
